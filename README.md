@@ -20,8 +20,3 @@ The focus was on **SSH security hardening** and **firewall configuration** to re
 - **SSH** – Secure shell access.
 - **UFW** – Firewall configuration.
 - **VirtualBox** – Lab virtualization environment.
-
-## 🔎 Detection Phase
-1. **Nmap Scan**
-   ```bash
-   nmap -p 22 <vm-ip>
